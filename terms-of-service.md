@@ -55,4 +55,4 @@ We may suspend or terminate your access to the App at any time, for any reason, 
 
 If you have questions about these Terms, please contact us at:
 
-**Email**: [livneh.iot@gmail.com](mailto:livneh.iot@gmail.com)
+**Email**: [info@livneh.xyz](mailto:info@livneh.xyz)
