@@ -74,4 +74,4 @@ We may update this Privacy Policy from time to time. Changes will be posted in t
 
 If you have questions about this Privacy Policy, please contact us at:
 
-**Email**: [livneh.iot@gmail.com](mailto:livneh.iot@gmail.com)
+**Email**: [info@livneh.xyz](mailto:info@livneh.xyz)
